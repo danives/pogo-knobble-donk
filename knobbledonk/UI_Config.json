@@ -1,0 +1,11 @@
+{
+    "output_file": "settings.json",
+    "btnReset": {
+        "type": "button",
+        "label": "Reset Votes",
+        "tooltip": "Resets the votes!",
+        "function": "ResetVotes",
+        "wsevent": "EVENT_RESET_VOTES",
+        "group": "buttons"
+    }
+}
