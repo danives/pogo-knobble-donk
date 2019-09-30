@@ -3,7 +3,7 @@ Will log peoples messages to if they contain the words "knobble" or "donk" to a 
 
 ## Installation
 
-You first need to download and install Python 2.7.13 as it's the specific version that streamlabs chatbot uses. You can find the download at https://www.python.org/ftp/python/2.7.13/python-2.7.13.msi
+You first need to download and install Python 2.7.13 as it's the specific version that streamlabs chatbot uses. You can find the download at https://www.python.org/downloads/release/python-2713/ (choose the version you wish, it's likely the 'Windows x86-64 MSI installer' one).
 
 Once installed, you will need to open your chatbot, go to the "Scripts" tab, and click the cog. There, you will find a place to pick the folder for your Python installation (more precisely, the Lib folder) - this will *likely* be C:\Python27\Lib unless you changed something during install. This will auto-save.
 
